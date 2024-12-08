@@ -1,10 +1,3 @@
-Sure! Here's a comprehensive `README.md` for your SMS application using Django and Twilio.
-
----
-
-### 📄 **README.md**
-
-```markdown
 # 📱 SMS Sending Application with Django and Twilio
 
 This is a simple SMS sending web application built with **Django** and powered by the **Twilio API**. The app allows users to send SMS messages to specified phone numbers via a web interface.
@@ -59,7 +52,7 @@ sms_project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/sms_project.git
+git clone https://github.com/Caeilanlightwood77/sms_project.git
 cd sms_project
 ```
 
@@ -143,6 +136,16 @@ Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your browser.
 
 ---
 
+## 📦 `requirements.txt`
+
+```plaintext
+Django==5.1.3
+twilio==8.8.0
+django-environ==0.11.2
+```
+
+---
+
 ## ⚠️ Important Notes
 
 - Ensure your Twilio account has enough balance and that the recipient's phone number is verified if you're using a trial account.
@@ -166,17 +169,11 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
 ## 📞 Contact
 
 - **Name**: Caeilanlightwood
 - **Email**: caeilanlightwood77@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/Caeilanlightwood77)
+- **GitHub**: [Caeilanlightwood77](https://github.com/Caeilanlightwood77)
 
 ---
 
@@ -184,8 +181,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 **Home Page**
 
-![Home Page](path/to/homepage_screenshot.png)
+![Home Page](screenshots/homepage_screenshot.png)
 
 **Send SMS Page**
 
-![Send SMS Page](path/to/sendsms_screenshot.png)
+![Send SMS Page](screenshots/sendsms_screenshot.png)
