@@ -174,8 +174,13 @@ Contributions are welcome! To contribute:
 ### 👥 Project Contributors
 
 - **Dextarfinity**
+- **Github**: [Dextarfinity](https://github.com/Dextarfinity)
+
 - **DjYoon04**
+- **Github**: [DjYoon04](https://github.com/DjYoon04)
+
 - **kyleneangela**
+- **Github**: [kyleneangela](https://github.com/kyleneangela)
 
 - **Name**: Caeilanlightwood
 - **Email**: caeilanlightwood77@gmail.com
