@@ -171,18 +171,12 @@ Contributions are welcome! To contribute:
 
 ## 📞 Contact
 
+### 👥 Project Contributors
+
+- **Dextarfinity**
+- **DjYoon04**
+- **kyleneangela**
+
 - **Name**: Caeilanlightwood
 - **Email**: caeilanlightwood77@gmail.com
 - **GitHub**: [Caeilanlightwood77](https://github.com/Caeilanlightwood77)
-
----
-
-### 📷 Screenshots
-
-**Home Page**
-
-![Home Page](screenshots/homepage_screenshot.png)
-
-**Send SMS Page**
-
-![Send SMS Page](screenshots/sendsms_screenshot.png)
