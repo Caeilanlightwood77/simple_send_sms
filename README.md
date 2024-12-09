@@ -169,17 +169,15 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📞 Contact
-
 ### 👥 Project Contributors
 
-- **Dextarfinity**
+- **Name**: **Dextarfinity**
 - **Github**: [Dextarfinity](https://github.com/Dextarfinity)
 
-- **DjYoon04**
+- **Name**: **DjYoon04**
 - **Github**: [DjYoon04](https://github.com/DjYoon04)
 
-- **kyleneangela**
+- **Name**: **kyleneangela**
 - **Github**: [kyleneangela](https://github.com/kyleneangela)
 
 - **Name**: Caeilanlightwood
